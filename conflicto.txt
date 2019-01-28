@@ -1,1 +1,1 @@
-Esto es un texto conflictivo
+Esto es un texto conflictivo estando en la rama master
